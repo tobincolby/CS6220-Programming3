@@ -7,6 +7,9 @@ createSVM.py
 createEnsembles.py
 - Uses GridSearchCV to tune hyperparameters for the boosted SVM's and saves the models and GridSearch results
 
+createRandomForest.py
+- Uses GridSearchCV to tune hyperparameters for the random forest classifer and saves the model along with the results
+
 visualize.py
 - Uses the GridSearch results to generate 3D graphs to show how different combinations of parameters result in different perforance
 

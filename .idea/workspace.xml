@@ -105,13 +105,13 @@
       <list>
         <option value="$PROJECT_DIR$/split.py" />
         <option value="$PROJECT_DIR$/runRandomForest.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/createSVM.py" />
         <option value="$PROJECT_DIR$/RandomForestClassifier.py" />
         <option value="$PROJECT_DIR$/createRandomForest.py" />
         <option value="$PROJECT_DIR$/visualize.py" />
         <option value="$PROJECT_DIR$/createEnsembles.py" />
         <option value="$PROJECT_DIR$/testSVM.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -571,14 +571,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/split.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -642,6 +634,14 @@
           <folding>
             <element signature="e#0#47#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
