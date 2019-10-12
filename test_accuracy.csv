@@ -1,0 +1,9 @@
+poly_accuracy,0.8978805394990366
+sigmoid_accuracy,0.7552986512524085
+rbf_accuracy,0.976878612716763
+linear_accuracy,0.8362235067437379
+poly_boost_accuracy,0.789980732177264
+sigmoid_boost_accuracy,0.6955684007707129
+rbf_boost_accuracy,0.6955684007707129
+linear_boost_accuracy,0.8766859344894027
+random_forest,0.9152215799614644
